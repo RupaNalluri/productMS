@@ -15,7 +15,7 @@
 	<description>Product micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version> 
-		<sonar.projectKey>rupanalluri123
+		<sonar.projectKey>rupanalluri
 		</sonar.projectKey>
 		<sonar.organization>RupaNalluri</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
